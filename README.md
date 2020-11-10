@@ -1,3 +1,3 @@
 # STRICT
 
-A html file based on PSD.
+A html webpage based on PSD.
